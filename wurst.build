@@ -1,0 +1,9 @@
+---
+projectName: MyWurstProject
+dependencies:
+- https://github.com/wurstscript/wurstStdlib2
+- https://github.com/StN-NL/CustomHeroAbilities.git
+buildMapData:
+  name: MyMapName
+  fileName: MyMapFile
+  author: Stijn
